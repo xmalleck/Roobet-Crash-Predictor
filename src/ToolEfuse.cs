@@ -77,3 +77,4 @@ namespace roobet_crash_predictor
         public string ReadWrite { get; set; } = "";
     }
 }
+

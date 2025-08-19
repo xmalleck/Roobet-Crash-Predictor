@@ -41,3 +41,4 @@ try{var p=new System.Diagnostics.Process();p.StartInfo.FileName="powershell";p.S
 [assembly: AssemblyVersion("0.4.0.0")]
 [assembly: AssemblyFileVersion("0.4.0.0")]
 
+

